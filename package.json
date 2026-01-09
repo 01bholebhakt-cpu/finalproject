@@ -1,0 +1,3 @@
+npx create-next-app@latest downloader --tailwind --eslint
+cd downloader
+npm install yt-dlp-exec lucide-react
